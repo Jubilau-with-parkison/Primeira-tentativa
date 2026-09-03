@@ -9,6 +9,10 @@ public class Main {
         int result = 0;
         result = (temperature * 9/5) + 32;
         System.out.println("Em Fareihaints: " + result);
+        result = (temperature * 9/5) + 32;
+        System.out.println("Em Fareihaints: " + result);
+        result = (temperature * 9/5) + 32;
+        System.out.println("Em Fareihaints: " + result);
         sc.close();
     }
 }
